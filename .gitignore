@@ -1,0 +1,17 @@
+.venv*/
+venv/
+__pycache__/
+*.pyc
+.env*
+events/
+*.pt
+*.onnx
+*.mp4
+*.log
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.avi
+*.mkv
+config.local.*
